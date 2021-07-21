@@ -12,6 +12,20 @@
 - 📄 Know about my experiences [https://github.com/Francisco-Webdeveloper/CV/blob/main/Francisco_Santos_frontend_CV.pdf](https://github.com/Francisco-Webdeveloper/CV/blob/main/Francisco_Santos_frontend_CV.pdf)
 
 - ⚡ Fun fact **I am a wine lover 🍷 and a responsible drinker 😏**
+- something
+
+### Projects:
+
+🐶 **[Dogbnb:](https://github.com/Dorismandu/dogbnb)**
+* marketplace to become a part-time dog owner
+* Ruby on Rails desktop web application 
+* Live Demo: https://dogbnb-lewagon.herokuapp.com/
+
+🔐 **[Monettary:](https://github.com/BomTenner/Monettary)**
+* crypto-currency wallet to store, transfer and exchange assets
+* Ruby on Rails desktop web application 
+* Live Demo: http://monettary.herokuapp.com/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
