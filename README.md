@@ -12,7 +12,6 @@
 - 📄 Know about my experiences [https://github.com/Francisco-Webdeveloper/CV/blob/main/Francisco_Santos_frontend_CV.pdf](https://github.com/Francisco-Webdeveloper/CV/blob/main/Francisco_Santos_frontend_CV.pdf)
 
 - ⚡ Fun fact **I am a wine lover 🍷 and a responsible drinker 😏**
-- something
 
 ### Projects:
 
