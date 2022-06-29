@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">Passionate Frontend Developer fascinated by creating new things and valuable assets to help people and companies.</h3>
 
-- 🔭 I’m currently working on [crowdfunding-page](https://github.com/Francisco-Webdeveloper/crowdfunding-page)
+- 🔭 I’m currently working on a [crowdfunding-page](https://github.com/Francisco-Webdeveloper/crowdfunding-page) demo project
 
 - 🌱 I’m currently learning **Typescript**
 
