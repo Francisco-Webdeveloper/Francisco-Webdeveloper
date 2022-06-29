@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">Passionate Frontend Developer fascinated by creating new things and valuable assets to help people and companies.</h3>
+<h3 align="center">Passionate Frontend Engineer fascinated by developing interactive interfaces for meaningful products using React.js.</h3>
 
 - 🔭 I’m currently working on a [crowdfunding-page](https://github.com/Francisco-Webdeveloper/crowdfunding-page) demo project
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Francisco-Webdeveloper?tab=repositories](https://github.com/Francisco-Webdeveloper?tab=repositories)
 
-- 💬 Ask me about **React, Javascript, CSS, SASS, Bootstrap, React Testing Library**
+- 💬 Ask me about **React, JavaScript, CSS, SASS, Bootstrap, React Testing Library**
 
 - 📫 How to reach me **franciscojbmsantos@gmail.com**
 
@@ -15,15 +15,15 @@
 
 ### Projects:
 
-🐶 **[Dogbnb:](https://github.com/Dorismandu/dogbnb)**
-* marketplace to become a part-time dog owner
-* Ruby on Rails desktop web application 
-* Live Demo: https://dogbnb-lewagon.herokuapp.com/
-
 🖥 **[Crowdfunding:](https://github.com/Francisco-Webdeveloper/crowdfunding-page)**
 * crowdfunding project demo
 * React responsive web application 
 * Live Demo: Available soon
+
+🏀 **[Sports Quiz:](https://github.com/Francisco-Webdeveloper/sports-quiz)**
+* Quiz game related to sports
+* React web application 
+* Live Demo: https://francisco-webdeveloper.github.io/sports-quiz/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
