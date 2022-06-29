@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Francisco-Webdeveloper?tab=repositories](https://github.com/Francisco-Webdeveloper?tab=repositories)
 
-- 💬 Ask me about **React, Javascript, CSS, SASS, Bootstrap**
+- 💬 Ask me about **React, Javascript, CSS, SASS, Bootstrap, React Testing Library**
 
 - 📫 How to reach me **franciscojbmsantos@gmail.com**
 
