@@ -15,7 +15,7 @@
 
 ### Projects:
 
-🖥 **[Crowdfunding:](https://github.com/Francisco-Webdeveloper/crowdfunding-page)**
+🖥 **[Crowdfund:](https://github.com/Francisco-Webdeveloper/crowdfunding-page)**
 * crowdfunding project demo
 * React responsive web application 
 * Live Demo: Available soon
