@@ -18,7 +18,7 @@
 🖥 **[Crowdfund:](https://github.com/Francisco-Webdeveloper/crowdfunding-page)**
 * crowdfunding project demo
 * React responsive web application 
-* Live Demo: Available soon
+* Live Demo: https://crowdfund-page.netlify.app/
 
 🏀 **[Sports Quiz:](https://github.com/Francisco-Webdeveloper/sports-quiz)**
 * Quiz game related to sports
